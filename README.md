@@ -1,2 +1,6 @@
-# GoPro10_FisheyeCorrection
-Calibration and undistortion of the fisheye effects from GoPro10
+# GoPro10 FisheyeCorrection
+## Example Correction
+![Example Correction](./undistortFisheyeImage.png)
+## Estimated GoPro10 Parameters
+For 1080p resolution:
+
